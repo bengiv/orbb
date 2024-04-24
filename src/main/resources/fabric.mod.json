@@ -1,0 +1,33 @@
+{
+	"schemaVersion": 1,
+	"id": "orbb",
+	"version": "${version}",
+	"name": "orbb",
+	"description": "Makes ores actually drop ores! - BYG Edition",
+	"authors": [
+		"bengiv"
+	],
+	"contact": {
+		"homepage": "https://modrinth.com/mod/orb-create",
+		"sources": "https://github.com/bengiv/orbc",
+		"issues": "https://github.com/bengiv/orbc/issues",
+		"email": "ben@tar.black"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/orbb/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"dev.bengiv.Orbb"
+		],
+		"fabric-datagen": [
+			"dev.bengiv.OrbbDataGenerator"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.14.0",
+		"minecraft": ">=1.17.1",
+		"java": ">=16",
+		"fabric-api": "*"
+	}
+}
