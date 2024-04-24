@@ -6,7 +6,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "byg:budding_ametrine_ore",
+          "name": "byg:budding_ametrine_ore"
         }
       ],
       "conditions": [

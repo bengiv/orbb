@@ -6,7 +6,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "byg:brimstone_nether_quartz_ore",
+          "name": "byg:brimstone_nether_quartz_ore"
         }
       ],
       "conditions": [

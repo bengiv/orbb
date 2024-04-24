@@ -6,7 +6,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "byg:emeraldite_ore",
+          "name": "byg:emeraldite_ore"
         }
       ],
       "conditions": [
