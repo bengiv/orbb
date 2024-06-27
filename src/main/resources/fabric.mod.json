@@ -9,8 +9,8 @@
 	],
 	"contact": {
 		"homepage": "https://bento.me/bengiv",
-		"sources": "https://github.com/bengiv/orbc",
-		"issues": "https://github.com/bengiv/orbc/issues",
+		"sources": "https://github.com/bengiv/orbb",
+		"issues": "https://github.com/bengiv/orbb/issues",
 		"email": "dev.bengiv@icloud.com"
 	},
 	"license": "CC0-1.0",
